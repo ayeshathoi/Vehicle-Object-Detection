@@ -1,4 +1,8 @@
-# Vehicle Object Detection in the context of Bangladesh Traffic :Sust-DLenigma Kaggle Competition Solution
+# Vehicle Object Detection in the context of Bangladesh Traffic
+
+## Sust-DLenigma Kaggle Competition Solution
+- Field : Computer Vision
+---
 
 ## Dataset 
 
